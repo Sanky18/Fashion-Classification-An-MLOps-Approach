@@ -1,0 +1,5 @@
+outs:
+- md5: 7dff6d275f5fe7250ec1de8d402ea880
+  size: 188400514
+  hash: md5
+  path: augmented_fashion_mnist.npz
