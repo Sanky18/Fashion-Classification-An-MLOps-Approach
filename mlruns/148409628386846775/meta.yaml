@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/148409628386846775
+creation_time: 1716010412486
+experiment_id: '148409628386846775'
+last_update_time: 1716010412486
+lifecycle_stage: active
+name: 'Experiment-4: With Dropout later'

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/250448193352210117
+creation_time: 1716011623767
+experiment_id: '250448193352210117'
+last_update_time: 1716011623767
+lifecycle_stage: active
+name: 'Experiment-9: With Batch Size'

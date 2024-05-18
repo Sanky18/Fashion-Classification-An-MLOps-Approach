@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/699140911421941148
+creation_time: 1716011727829
+experiment_id: '699140911421941148'
+last_update_time: 1716011727829
+lifecycle_stage: active
+name: 'Experiment-10: Batch size with no momentum'

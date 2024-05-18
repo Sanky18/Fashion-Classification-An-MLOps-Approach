@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/743354212860459753
+creation_time: 1716008315355
+experiment_id: '743354212860459753'
+last_update_time: 1716008851971
+lifecycle_stage: deleted
+name: 'Experiment-2: Slightly bigger model with more parameters'
+tags: {}

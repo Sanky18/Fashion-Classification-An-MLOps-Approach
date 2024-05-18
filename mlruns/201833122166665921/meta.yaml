@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/201833122166665921
+creation_time: 1716010921055
+experiment_id: '201833122166665921'
+last_update_time: 1716010921055
+lifecycle_stage: active
+name: 'Experiment-6: Too low learning rate'

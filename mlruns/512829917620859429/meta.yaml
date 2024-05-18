@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/512829917620859429
+creation_time: 1716008935624
+experiment_id: '512829917620859429'
+last_update_time: 1716008935624
+lifecycle_stage: active
+name: 'Experiment-1: Basic Neural Network for Classification'
