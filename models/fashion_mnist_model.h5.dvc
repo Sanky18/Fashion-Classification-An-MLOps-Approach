@@ -1,0 +1,5 @@
+outs:
+- md5: a432d16a551ed0383a277ef49d942d68
+  size: 2854696
+  hash: md5
+  path: fashion_mnist_model.h5
